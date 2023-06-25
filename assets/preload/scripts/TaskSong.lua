@@ -3,7 +3,7 @@ function onCreatePost()
         makeLuaText('text', getTextFromFile('data/'..songPath..'/info.txt'), 0, 0, 200);
         setTextAlignment('text', 'left');
         setTextSize('text', 24)
-        setTextFont('text', 'arial.ttf');
+        setTextFont('text', 'arial-v4.ttf');
         setTextBorder('text', 1)
         setObjectCamera('text', 'other');
         addLuaText('text');
