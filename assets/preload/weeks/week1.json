@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Matalism",
+			"maroon",
+			[
+				20,
+				0,
+				20
+			]
+		],
+		[
+			"Flare",
+			"maroon",
+			[
+				75,
+				0,
+				15
+			]
+		],
+		[
+			"Overdrive",
+			"maroon",
+			[
+				26,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Maroon pissed goes wild!!!",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
