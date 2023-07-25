@@ -1,0 +1,41 @@
+{
+	"storyName": "maroon funkin v3",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"delousion",
+			"grey",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"blackout",
+			"grey",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "V3 LEAKS!!!",
+	"hiddenUntilUnlocked": false
+}

@@ -1,30 +1,30 @@
 {
 	"songs": [
 		[
-			"Matalism",
+			"ashes",
 			"maroon",
 			[
-				20,
-				0,
-				20
+				146,
+				113,
+				253
 			]
 		],
 		[
-			"Flare",
+			"magmatic",
 			"maroon",
 			[
-				75,
-				0,
-				15
+				146,
+				113,
+				253
 			]
 		],
 		[
-			"Overdrive",
+			"overdrive",
 			"maroon",
 			[
-				26,
-				0,
-				0
+				146,
+				113,
+				253
 			]
 		]
 	],
@@ -37,8 +37,8 @@
 		"",
 		""
 	],
-	"storyName": "Maroon pissed goes wild!!!",
-	"weekName": "Custom Week",
+	"storyName": "moron",
+	"weekName": "idk a moron",
 	"freeplayColor": [
 		146,
 		113,
