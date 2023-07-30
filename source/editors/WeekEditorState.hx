@@ -124,6 +124,7 @@ class WeekEditorState extends MusicBeatState
 		var tabs = [
 			{name: 'Week', label: 'Week'},
 			{name: 'Other', label: 'Other'},
+			{name: 'impostor', label: 'impostor'},
 		];
 		UI_box = new FlxUITabMenu(null, tabs, true);
 		UI_box.resize(250, 375);
